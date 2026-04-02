@@ -2,8 +2,6 @@
 
 Este proyecto consiste en el desarrollo de una aplicación web interactiva para realizar un análisis exploratorio de datos sobre un conjunto de anuncios de coches usados en Estados Unidos.
 
-La aplicación está construida utilizando **Streamlit**, **pandas** y **plotly-express**, y permite al usuario explorar el conjunto de datos de forma visual e intuitiva.
-
 ##  Aplicación en Vivo
 **[Ver Dashboard →](https://proyecto-7-lrig.onrender.com/)**
 
@@ -30,5 +28,6 @@ La aplicación web proporciona las siguientes funcionalidades:
 ├── notebooks/
 │   └── EDA.ipynb      # Análisis exploratorio de datos
 └── README.md          # Documentación del proyecto
- 
+
+
 Esta aplicación facilita la comprensión de patrones y relaciones clave dentro del conjunto de datos, apoyando el análisis exploratorio de datos (EDA).
