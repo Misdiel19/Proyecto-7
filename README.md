@@ -4,6 +4,9 @@ Este proyecto consiste en el desarrollo de una aplicación web interactiva para 
 
 La aplicación está construida utilizando **Streamlit**, **pandas** y **plotly-express**, y permite al usuario explorar el conjunto de datos de forma visual e intuitiva.
 
+##  Aplicación en Vivo
+**[Ver Dashboard →](https://proyecto-7-lrig.onrender.com/)**
+
 ## Funcionalidad de la aplicación
 
 La aplicación web proporciona las siguientes funcionalidades:
@@ -13,4 +16,19 @@ La aplicación web proporciona las siguientes funcionalidades:
 - Generación de un gráfico de dispersión que muestra la relación entre el precio y el kilometraje de los coches.
 - Interacción mediante botones que permiten construir las visualizaciones bajo demanda.
 
+##  Tecnologías Utilizadas
+- Python
+- Streamlit
+- Pandas
+- Plotly Express
+
+## 📁 Estructura del Proyecto
+```
+├── app.py              # Aplicación principal de Streamlit
+├── vehicles_us.csv     # Dataset de vehículos
+├── requirements.txt    # Dependencias del proyecto
+├── notebooks/
+│   └── EDA.ipynb      # Análisis exploratorio de datos
+└── README.md          # Documentación del proyecto
+ 
 Esta aplicación facilita la comprensión de patrones y relaciones clave dentro del conjunto de datos, apoyando el análisis exploratorio de datos (EDA).
