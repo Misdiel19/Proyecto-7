@@ -1,4 +1,4 @@
-# Proyecto-7
+# Análisis de Datos de Viajes en Taxi – Chicago 
 
 Este proyecto consiste en el desarrollo de una aplicación web interactiva para realizar un análisis exploratorio de datos sobre un conjunto de anuncios de coches usados en Estados Unidos.
 
