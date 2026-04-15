@@ -49,7 +49,7 @@ La aplicación web proporciona las siguientes funcionalidades:
 └── README.md          # Documentación del proyecto
 
 Esta aplicación facilita la comprensión de patrones y relaciones clave dentro del conjunto de datos, apoyando el análisis exploratorio de datos (EDA).
-
+```
 
 ### Conclusiones
 
